@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T23:16:38.101Z",
+ "updatedAt": "2026-11-11T06:08:34.024Z",
  "categories": [
   "栃木県",
   "雇用動向",
@@ -15,18 +15,67 @@
  ],
  "items": [
   {
+   "title": "RMJ、外国人材の記録・書類作成を一元化する「エンプコム」を提供開始",
+   "source": "ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sT0xacU9rUjE5NDJNS01EQndxUDdDQVFTQjZIVUJJUWNVU1FxWjYtb2JLYUFCM1lTOUI4SjhtZzdZT2NOTC1kQ1JlcVpIZmtJRERST1lXbjF0andGSjY0bW1ac3pZdHF5NUNZaGNGeEhNeWdMX1pFRUc0NA?oc=5",
+   "date": "2026-11-11T05:12:13.000Z",
+   "category": "技能実習・育成就労"
+  },
+  {
+   "title": "日本語学習管理システム（LMS）販売開始 外国人材の「日本語教育」「学習状況」を一元管理、法人向け『Nihongo UGuru（にほんごウグル）』2026年11月11日",
+   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoLW5mQWRFU0FUaGliclFVTVkwcU1rd2ZUOTlRY1RXcGtnaFlZRlI3VWxHOUxBbnJtd0FJVXJ6Tzc5emNZblVGR2VGSkgyT0Z4djFOVHZ4QXFHRlJQV2g1ZW9pM1E1QXprMTY3Qy0xWFozdw?oc=5",
+   "date": "2026-11-11T04:15:24.000Z",
+   "category": "雇用動向"
+  },
+  {
+   "title": "「外国人雇用の法務部クラウド」がAI搭載でリニューアル。解説動画約190本と、開示請求で取得した入国・在留審査要領をもとにAIが回答",
+   "source": "時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1adlYxWHk2ZHZBWjNpME5BVzY5QXROcVBldVBLWjJPS3hVQlFqb2FzQmJsdE4wRU55bmN0Z2pCY21nMjl6WVptV0UwM0tSS1M3dkFjd1JrVHdKcDVjSEFFYi1sb25ZWnNPU0Rv?oc=5",
+   "date": "2026-11-11T02:46:00.000Z",
+   "category": "雇用動向"
+  },
+  {
+   "title": "SKILL BATON、イーストブリッジと戦略的アライアンスを締結",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UbFNmeFVCQ2oxTUhQTldDNzJIaWVmQW42SVA0UGFzZTljMUlVRDhtOVFwNU1jNzlFWEVFNXhQNVpBNl9nSTV2cDVjcFFYYUJoS0JqQnBHTl9GWHltQTZ5Ukg0ODdIM0lmelE?oc=5",
+   "date": "2026-11-11T02:00:02.000Z",
+   "category": "トラブル"
+  },
+  {
+   "title": "【育成就労制度の施行まで約140日】AIエージェント「SHAI」搭載、外国人材の毎日の記録から技能実習の書類作成までを一元化するクラウド「エンプコム」提供開始",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13TTloc1BLUlVqYjA3dDUtR2VYb1dvSzhrQkRjZzlKSVRXX0R2MXdJcGtJc0Nhei1TT2RYcU9UQm5vWWdLWFZEWURJZEpGMG9hc0Nlcm5ZenFkYTZCUWY1U3lYdm05Z3FJVVE?oc=5",
+   "date": "2026-11-11T01:01:07.000Z",
+   "category": "技能実習・育成就労"
+  },
+  {
+   "title": "登録支援機関・監理団体に特化した日本語教育・特定技能評価試験対策アプリ「IPPO for 登録支援機関・監理団体」を正式リリース",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PZ2tBMjdUczFWNkJieHgzQjY0ODJCeGVZS3VYV0R2bWQweHkyWDNPNVhhRllONjlKTEVNREFCWlpjWVBKeEZHRTg2eHJtNUprTDlTWGFJTDFzZEN3ZEY5LWN0VEo0ekVyZ2c?oc=5",
+   "date": "2026-11-11T00:01:39.000Z",
+   "category": "雇用動向"
+  },
+  {
+   "title": "外国人社員140名に聞いた「職場定着」に関する意識調査",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tQkFqOG1ZQUN5d2lqcExEMnZrblA0YlRVZnJwTzA5VlNCS2dwaEJMWjRFSURXQVFHN1hhM2JyZkRhSWVBczExRlNURHIza2t3YVFwXzNOM21WRUQ3d1ZRckd2SmZIWnZMY2c?oc=5",
+   "date": "2026-11-11T00:00:02.000Z",
+   "category": "雇用動向"
+  },
+  {
+   "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消：製造ITニュース（1/2 ページ）",
+   "source": "MONOist",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wOHliN3hIUnl5d3ZHejNYOFdYc2FKVmphYzNNY2JIZFBPUnViUGJEaU5nLWxuRlpqdWJEb1NPZDU5US1EM0pYOHBmdWUySVk2YlByYW15U3lKNm1OVTFXSHJoeXVhN0FqS0U0THNJSQ?oc=5",
+   "date": "2026-11-10T23:30:00.000Z",
+   "category": "労働者数・統計"
+  },
+  {
    "title": "インドネシア人運転手デビューへ 慢性的人手不足で秋田・秋北バスが外国人初採用 仙台の東洋ワークが紹介",
    "source": "河北新報オンライン",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NdHk4NjhPTmRCWVFQUGduRS1JaFBqMUNxVnEtbzFObXlQdFVBRFYyWnYycXlTazloUGdUREZBemNEdV9OcUxKcE5xOHVpLWNPMTBNbEFIRjJydFk?oc=5",
    "date": "2026-11-10T21:00:00.000Z",
    "category": "人手不足"
-  },
-  {
-   "title": "「同胞が犯罪」新宿から通報 「ベトナムと日本の関係損ねたくない」 [外国人]",
-   "source": "朝日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wcTZvdHd6M1ExWlBTUk9XT0NmY2J3ZmpydGhzWXZTdXJON3ZDaE1iSG5vZy1EVG9hdEpxXzlSZWJmdjhBZHZCcFdZODI5WkdySVNPQjZDRGNGY0JpcEloQ1dDUlFHNzQ?oc=5",
-   "date": "2026-11-10T21:00:00.000Z",
-   "category": "トラブル"
   },
   {
    "title": "日本リユースシステム 八代市で外国人技能実習生を励ます会を開催",
@@ -76,6 +125,13 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1US2FhUFZSZ0hFelFGX09yNFotLUs5RUxSeHZSb3hCUlZ1ZUJTRzRxMXhHV2g1UHliemRINThyUmxSNUVPYS1WQmVzam05cGd0MUFER3dmSG1lRThHS2VMTTFyZk1aLXRrR1E?oc=5",
    "date": "2026-11-10T08:56:00.000Z",
    "category": "技能実習・育成就労"
+  },
+  {
+   "title": "ベトナム人材出口戦略を考える！",
+   "source": "選挙ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QRGF4QmdRd29CMzdnNk5oZ19pMWhOLWtTV2Z6OFhLQ0ppOFMtMzk2bU5FTUxmV1UwRXB3cW9wWUJoZ0ptVWdqcEVwTUo3VV9tSTRMem1nXzJSWHlFc3NV?oc=5",
+   "date": "2026-11-10T08:09:55.000Z",
+   "category": "法改正・制度"
   },
   {
    "title": "外国人建設人材向けに多言語教育２言語に対応 助太刀",
@@ -162,6 +218,13 @@
    "category": "トラブル"
   },
   {
+   "title": "技能実習生受け入れ449事業所に是正勧告 北海道内25年、違反最多に",
+   "source": "北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWnpQYTFCd2JoekJhN2xyUk45bGJUMXJRcHduN3JJaVk3a05UZzBCVGNSbnZJYmRmS3dCSGZtcXNmSE12bllRZ0Q3d0FlMElpczJaQ25mRndCQQ?oc=5",
+   "date": "2026-11-09T11:17:11.000Z",
+   "category": "技能実習・育成就労"
+  },
+  {
    "title": "技能実習生受け入れの法令違反、最多449事業所 25年、北海道労働局",
    "source": "47NEWS",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yS01kc1dibVFqT0hjRXFMSGhDVEhhaEdqM2I2RFpsNHZnTVRkSzZrWjJtVExycHZRaDZZbXUzREtGbXQ1aHd3WEpFSQ?oc=5",
@@ -183,13 +246,6 @@
    "category": "技能実習・育成就労"
   },
   {
-   "title": "【サンキョウテクノスタッフ】ソフトボール夢教室 in群馬 開催のお知らせ",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82d0lsTF9sLTFFYlVHaFpUQmpKaFF2TmxoN0VOYmh2ZlBnQ1JmY3MxcmVjYWpFZ2VpSlNpblFjejZmekxFc3YxdnhDVVBsc21TMGg3OXlIZ00yUUprbTg3M3p1RE5pdldRQ0E?oc=5",
-   "date": "2026-11-09T08:17:57.000Z",
-   "category": "法改正・制度"
-  },
-  {
    "title": "外国人「育成就労」の採用学ぶ 13日、熊本市でセミナー",
    "source": "熊本日日新聞社",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vTTlhd2xEcG12Nzg0ZzRvUE5uTC1ZOTNFdDBMTlN0dWdJU3BGZ1czMTlBMkk3aWZDNS1OalluWTdEakpybXU0UGNoWnplWkk?oc=5",
@@ -204,11 +260,32 @@
    "category": "技能実習・育成就労"
   },
   {
+   "title": "登録支援機関向けウェビナー「70社以上の営業支援現場から見えた、外国人採用がうまくいく企業・うまくいかない企業」【11",
+   "source": "ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xMzJUVUpWV0ZGZXBkODlVS3gzZ3F2RWo2SjdCZ3pnaldrMktGSWQ4LXJldlNWZ3J4akVwTFVEY0RocElDZmRuSXdvSTFyQmctN0lhVEtCcEpZZGNjcTlFTEg4R2Q0b25v?oc=5",
+   "date": "2026-11-09T02:00:30.000Z",
+   "category": "特定技能"
+  },
+  {
+   "title": "旅する防衛白書：防衛にやたら詳しい女性は技能実習生を支えてもいた 和田靜香／8",
+   "source": "週刊エコノミスト Online",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CU21KZmNqemZHRGtZTVpXY1R6YXptSW14R29BY3J6eUR0X3NrMW9DbzBHR25HZU91ZHZVV3poX2pqaDBYV1h4cmpTNzFJVFJLbTVOazZqbnp6Q21iY3huM0VBUllKRFBhN0Q3UTVta1pxZ09NaGhwY0c4VnlkVTg?oc=5",
+   "date": "2026-11-08T21:19:18.000Z",
+   "category": "技能実習・育成就労"
+  },
+  {
    "title": "技能実習生の逸失利益「67歳まで日本水準」判決 専門家「画期的」 [千葉県] [外国人]",
    "source": "朝日新聞",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bi1RU2hnbWlyN3pBcGpnVjBiQ3RNVWJEMm1EdVlsaDRhYm13eVZZZzJwT2JoZXlMUFRXYkNWVXVQekFEYXRQSm1UY0hNOU1kR1hPSkFzOUpxRlRva01lTXFiTE5XTXM?oc=5",
    "date": "2026-11-08T21:00:00.000Z",
    "category": "技能実習・育成就労"
+  },
+  {
+   "title": "「精神的につらい」京都府教育委員会のALTストライキから1年 「外国人の労働環境」厳しさあらわ",
+   "source": "京都新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kS3Q5ZF93QUJfakZlNFJuUExqYWVsaWwydHhmaDd2TXJSUHJ2RktFTnVLX1dkZGhuWjBhSzdqcjV1SC1DUFVXSmNDekRjRWJtM1cxakp6NjE?oc=5",
+   "date": "2026-11-08T20:00:00.000Z",
+   "category": "賃金・待遇"
   },
   {
    "title": "長崎県と商船三井グループ２社、外国人材受け入れへ協定…新たな「育成就労制度」見据え（長崎新聞）",
@@ -239,25 +316,11 @@
    "category": "技能実習・育成就労"
   },
   {
-   "title": "飲食店で働く外国籍人材向けeラーニングサービス「NIMON(ニモン)」「特定技能2号試験対策コース」を新設、11月6日より配信",
-   "source": "時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZdHdvS002c3l1ME1jbVNyc1dtMUI4Y0N2NTA4a1d0clNYMGZNQWJXcmxSTHcxVDlCWXNzTGdrZDVNNEp3T2NKZE01R1UyWXdXTFNqVHU0WWpudGlwV19vOWNZRFdpWHAtandB?oc=5",
-   "date": "2026-11-06T20:40:00.000Z",
-   "category": "特定技能"
-  },
-  {
    "title": "外国人留学生 日本で就職望む理由",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xbDlZV1BTV1VUNkZVU3RhTW1ZaTA0QURrMHN2MC1yclowdzhyYm1ZbzQ3VGJtZ3lJYTFINEFubkpPR1YxUjRXcWdXblJsdUFa?oc=5",
    "date": "2026-11-06T12:13:47.000Z",
    "category": "技人国・留学生就職"
-  },
-  {
-   "title": "TDGグループCEO 加藤 光一が「物流DX未来会議2026」に登壇｜「外国人ドライバー現場定着の秘訣」を講演",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KZlBWME05azE3OFFHYkZ4MUxiUDFvYnZ6TEVrdVhnbWZpbkNtTFlodEZ1SmRKT2xJVEYtZ095TnR1MDJNX3IzZzBOazktZEVvZ0tYeHhTOGR6ZDZWT3c1WlBSY2lNeUtORmc?oc=5",
-   "date": "2026-11-06T09:55:19.000Z",
-   "category": "特定技能"
   },
   {
    "title": "国内で働く外国人は過去最多…県内は全国最少 県内への定着に向けた交流会 介護現場を支える外国人17人が参加 秋田・北秋田市（ABS秋田放送）",
@@ -407,13 +470,6 @@
    "category": "技能実習・育成就労"
   },
   {
-   "title": "WEWORLD CAREER EXPOに過去最多1,518名、企業が語る「書類では見えない採用の決め手」",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83MTg3X2QtZjdDUkhkOEJSMEhmTTVTa2lQM2V5UlpDUldjeFRIZ01QbVZmaW9TVTIzelpzaDBQTnJJdGdSa29UYkF1NmdXaElXUks4ODA3aTk3eGpWZEhtY3JyOS1xV3hnLXc?oc=5",
-   "date": "2026-11-05T02:00:02.000Z",
-   "category": "特定技能"
-  },
-  {
    "title": "育成就労制度は2027年4月施行｜技能実習からの移行に備える外国人雇用の準備｜菅野勝",
    "source": "JIJICO",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EeDA5RUFtbDdsekJzWnA3U1o1VXJUZVVuOVA5VlVrU3lzM05PeG9vMlg1a2otQTdMeWQyU2JSZ3hYNWtTT2c3ajZ5a1M1WXJzQkx2ZmhHVEYtSldnYWE2Mm0wb0Y3cVE?oc=5",
@@ -435,37 +491,9 @@
    "category": "技人国・留学生就職"
   },
   {
-   "title": "ふるさとの味「おいしい」 熊本地震経験 比の技能実習生ら 八代で励ます会 伝統料理楽しむ ／熊本",
-   "source": "毎日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Odkt4R0ZuRVAxQTlXNldRNkhXVGVSNmNBc3VFOUczcXQ0ZlZBM0FfQTRSb2dUWjZVOUhwLUt0VVdpOG5vTWM4cWxKckg4cWg0QTV4T3FWVENrS2Q3YVlTVV9Qc1RtSjh3?oc=5",
-   "date": "2026-11-04T20:02:52.000Z",
-   "category": "技能実習・育成就労"
-  },
-  {
-   "title": "【東京国際大学にて留学生向け就活セミナーを開催！】参加者約100名・満足度87.1%を記録",
-   "source": "ニコニコニュース",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LajJLeXNGSGdYbkh3bkFleGM2dGRocDgtY1BHbjdFcWRMaXk4aVFCQ0puekhXSllkUHNlUkExZnRnZGZpNzBtR2pOZ2RHQ1pEb1p6X0tubUh2dVlFY3YzUVZnbGt6X2taNmc1eFNsNXcwcS1ma28zQkNjOA?oc=5",
-   "date": "2026-11-04T17:15:25.000Z",
-   "category": "技人国・留学生就職"
-  },
-  {
-   "title": "「右よし、左よし」県内初！外国人バス運転士がデビュー インドネシア出身の男性 山梨",
-   "source": "日テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFF2aTI1dnhLMnpLYmhoNmp5bk1zYkZTTklxbzNZRzIyWm9EQ0hvS3doeDRwYzRrZzh1clFxMTVDRjZsWTJYbW5HRFgwRm54aUVvbWE1VW1hVnNJaUtLVDJRLXJDMlZscVpiVnNPQlhkR2NQcHU2VGNCZ3JGVHdrR21IYw?oc=5",
-   "date": "2026-11-04T11:10:00.000Z",
-   "category": "特定技能"
-  },
-  {
    "title": "同僚2人を殺そうとした罪 元技能実習生の男に懲役8年の判決 高松地裁（KSB瀬戸内海放送）",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85VXBIS1oyOVZTdTAzTHMwSHhPVE1PZzRUU3Zrb20zcTZqRDRiU2treXdJQVV3RDFFUHVIZUxVODZjOXRVc0gzNUlQbEVlNF9ja3JTbFRqaU1vTDQ0azhFMWpWNjZBUjZwVWRYakZpOUZSdkdaUFYzRFlaS1FlRm8?oc=5",
-   "date": "2026-11-04T08:43:33.000Z",
-   "category": "技能実習・育成就労"
-  },
-  {
-   "title": "同僚2人を殺そうとした罪 元技能実習生の男に懲役8年の判決 高松地裁 (KSB瀬戸内海放送)",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWlLM3AwOHkwcG1LVnd4Qm9adjh5ZjhIZUprWXdqZFZjcF9YTUptYmppQjRCM0hPQ3dQZ2Q2a09IeWdZNllwbG0xMmRSdEJLV0QyS1ZoNWw0Y2tjdTdIRmFWVG1OZ2tHcW55dzgtYUtxMU1RTGNnUkZ2b3FYMUo2WG1iaFBPN2FOWVBKbnJn?oc=5",
    "date": "2026-11-04T08:43:33.000Z",
    "category": "技能実習・育成就労"
   },
@@ -484,18 +512,11 @@
    "category": "労働者数・統計"
   },
   {
-   "title": "外国人材の受入れ度を90秒でチェック。UNICOACHが「HR EXPO 大阪」に出展。特定技能人材から幹部候補の高度人材まで、活躍・定着に向けた診断と個別相談をブースで実施",
+   "title": "【東京国際大学にて留学生向け就活セミナーを開催！】参加者約100名・満足度87.1%を記録",
    "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IUWlZNnRpY0JTN3M0bmtxNC1fN2FqZ1ZvU2JVcUl2bXB3OC1YV2lIT2tUQnY2YnU4bVY1UkRLcTN4c3ZQYm9DenRZQzVteXlEcldqNGlqTWVYRXR5dTM1TFpEMVNjNUhuYWc?oc=5",
-   "date": "2026-11-04T02:00:01.000Z",
-   "category": "特定技能"
-  },
-  {
-   "title": "徳島県内初の外国人女性ドライバー、鳴門市の会社が採用 ｢特定技能1号｣ 大型トラックで運送担う",
-   "source": "徳島新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmb2JyZExienNRWnBKNjZkZmI0UUx5eGluV0lwdjN0WjBkMzROeXpra1BwTHhMQmJrM1FzNHBoT3RjMUlheS1xRlQwWDVSdGNkNkFfMFpR?oc=5",
-   "date": "2026-11-03T20:00:00.000Z",
-   "category": "特定技能"
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92RWJWbUh6Sndsb2l4NFVyemJObm9ZNUJvNmhPaUZvemJ2QTJuR0c3NmR1dXJPa2Y1UG13OTRXXzd3VFpqWnN0c2REczFwNXdJeV9KQ0Q5YTdRdnQwQ1lwZkR2RXd0emduVkE?oc=5",
+   "date": "2026-11-04T04:16:41.000Z",
+   "category": "技人国・留学生就職"
   },
   {
    "title": "「管理側が変化に対応していくのが課題」 “育成就労” 来年4月導入へ 企業向けセミナー 外国人労働者1.6万人は過去最多 富山",
@@ -503,13 +524,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TYjdhY1VuUENITzBjWjhzcFhaVm9hbWhTSTdWeXhFNmU1MW9SNHhESE93OGstaDRFMm5JeE5ab29LRUtPSVlHLUxaVHVEZ1M4Y1huRHpKUGZDM3VIY0lUUlJkRjJBRTg?oc=5",
    "date": "2026-11-03T08:36:00.000Z",
    "category": "労働者数・統計"
-  },
-  {
-   "title": "特定技能の外国人「ＡＩ発達で縮減」 受け入れ上限巡り発言 小野田担当相",
-   "source": "朝日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aZUN1THJPbUtibEpxUkFYOGV1WjU3ckdxZnRWUWRHekJ1bllDZ0RQZ1V2Mm80WGk1RkdEZWtNRzh1UUJqa25uNjY4ZEtIMTJOUkVFLTNFdXotVHNf?oc=5",
-   "date": "2026-11-02T20:00:00.000Z",
-   "category": "特定技能"
   },
   {
    "title": "特定技能外国人の採用進む 鉄道整備の現場で 人手不足を補う：ニュース",
@@ -540,17 +554,17 @@
    "category": "特定技能"
   },
   {
+   "title": "当社初採用の特定技能外国人の業務開始について",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hZEJRVE5fRXhBaHNYcnZ4TWhyMXVkcUx3U0pBUVBib1dQNzR3REV3bTFtSmJhdXJJUjNTcDJIQUVKNFEybUNaM284UFNMQzBIcEowZ3FnN0k1LU1kTzFwNF94cThVdWQtQmc?oc=5",
+   "date": "2026-11-02T08:00:00.000Z",
+   "category": "特定技能"
+  },
+  {
    "title": "名鉄、初の特定技能外国人が業務始める 検査場でブレーキ装置整備",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rOWMzaXRLaGpGSzZIX1FTM1J6cDQtazFxVG95X1BheUF3M2pmT1FlT3ZXTzBXZGYwYWV1RVo0RVdYWVBHOXItMTA0TkUyT05CNkpPMGkyVlgzMTB0Tk1ybkNpSkIzbVlpb3RvQQ?oc=5",
    "date": "2026-11-02T02:28:03.000Z",
-   "category": "特定技能"
-  },
-  {
-   "title": "当社初採用の特定技能外国人の業務開始について",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hZEJRVE5fRXhBaHNYcnZ4TWhyMXVkcUx3U0pBUVBib1dQNzR3REV3bTFtSmJhdXJJUjNTcDJIQUVKNFEybUNaM284UFNMQzBIcEowZ3FnN0k1LU1kTzFwNF94cThVdWQtQmc?oc=5",
-   "date": "2026-11-02T01:00:02.000Z",
    "category": "特定技能"
   },
   {
@@ -594,13 +608,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wUVZuendIVXBXRDlsaW8zN3UyUmxqUkhPVkhQcGs3T2RDY0tuRF9yb0I2aGhSVlJwMXkySEpyTjRXOTlCajBTd0Z3TlJTVlN6MkpjUzNPbDM0OHVVTlJ0VHV6QW5IbkU?oc=5",
    "date": "2026-10-30T11:57:26.000Z",
    "category": "法改正・制度"
-  },
-  {
-   "title": "外国人労働者「経済寄与あまりない」 大統領発言が物議 韓国（時事通信）",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBreDBPWnowZDBGLUs0Q202bXNfcU1Eckpkd0tOaExLVktfaDhydnYzZmRlOFdKdmFuc3BEYTAzRXd4WkZvSEd5eWlHLUtQQzhIbVpvcGpqV1I1RkJSVEZqa1Jsc3hNbWNrN1h4ZGFfMENyNm9oalU1WkRNR2VPWFU?oc=5",
-   "date": "2026-10-30T07:00:00.000Z",
-   "category": "賃金・待遇"
   },
   {
    "title": "【ミャンマー人虐待問題】暴行疑惑の町議に直接取材も無言 初出席した団体交渉は平行線 虐待を訴える外国人労働者は謝罪受け入れ拒否「やったことを認めて」",
@@ -743,13 +750,6 @@
    "category": "法改正・制度"
   },
   {
-   "title": "外国人雇用における人権リスクへの対応（2） ～サプライチェーンにおける実務対応～",
-   "source": "日本の人事部",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iV0c1VEo3VDlXVnh1MUZoZjBMWERiVTZpV0FqTUlIRndrYnZweDAzdnNOVldNQnA1ZDJfOGNlelVWX0xxczF3WkhVdVh0ZmFWbElWblpDVHBQVlU?oc=5",
-   "date": "2026-10-26T07:00:00.000Z",
-   "category": "トラブル"
-  },
-  {
    "title": "育成就労の日本語教員、確保済み14.6％…教員不足が課題に",
    "source": "リセマム",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vM3Myb1RLNE5HbFEzbnZFLTF1a1V0LWdENzc5Y2c0cE5XVHNLc2ZmTHI0Slp0U08zMU5KeDl3eGVPdWxpa1pzaFhhNnJpX0RURV80M0M0QkFCenI3NnJrOVBBT3ZqUQ?oc=5",
@@ -767,6 +767,13 @@
    "title": "日本語講習担う教員不足 「育成就労」前に、未確保4割弱",
    "source": "聖教新聞",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fb2FPVkN4U3FfWkZVLTh2NkI3TzMwcDMxSWNFMzRXMk96WGYzRTBJY2Z1Z0RJZWx4dllRN3lDV2d2dnJjTEprcFo3UXF2dU1jVElzbHl2UlZqdnNxRzRJQk5qZms1OFVXMFNoaW1xQ2ktS2xLRVRrYg?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "category": "技能実習・育成就労"
+  },
+  {
+   "title": "育成就労、日本語教員不足 「未確保」4割弱 政府調査 (時事通信)",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmtGdjI0V05YV2s2ZGo2azZkQ3NfLTdPMjd4dG9FM3V0ZWU1ZmdIV3NheHM1LXBKNlNucG9rSlZtbTJqbFRGUzYzLTMzZ1MwNGktaks4aXB0eTh5N2tXY2hhSDMwM25scFlrVzUzanFzTXlmZ2RTM3VBekNHZ1YyYTFJS0h0a0xKdjgxSGF3?oc=5",
    "date": "2026-10-26T07:00:00.000Z",
    "category": "技能実習・育成就労"
   },
@@ -862,13 +869,6 @@
    "category": "技能実習・育成就労"
   },
   {
-   "title": "大阪 建設交流館で特定技能外国人制度の説明会を開催",
-   "source": "建通新聞",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3FpY25kRzlGa1MxYXdNQTR0a3plUC1iT1cxS2xUbHlmQ2t1MkV1QnctYzhWYkRUckE2NlpYSHhKMHMwNEpOLTBhcEVabUhpZFZTWk11Ti1uTDNhS3IzYVJRQzR2ZFN5T1Z1TFVhUEdTVlMyLXBZN1p4RW90OUI0VA?oc=5",
-   "date": "2026-10-23T07:00:00.000Z",
-   "category": "特定技能"
-  },
-  {
    "title": "新潟県外国人材受入サポートセンター事業のお知らせ",
    "source": "新潟市",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTJUc1JmSnlWOGN2dkhFTEdEaXc1ZkNYaU5lNjRpdmdHZllMSW52dDMyWUs0RUs3TW5LYjIxMHVEbWFDUnlZRXBWVG01Y1VyNHFwMGF2dXJTYWhpTEh2alRHX09KNnZDTjNOb3REbGlfeVViZld2dUNwd01mX0lyNXlJNXV5aHBy?oc=5",
@@ -881,6 +881,13 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwRUVxTDY5Q2JTcWhFU3F2TEVLWjJ4MW53V2ZUdnhKcFpEOU5jcEt1dmFCTEh1NUJ5VlNaYzA1VjExUGNnbGI4LVdlUmR3YkluQ2VZRU5nYWNnMlVHUTBrdDVFVWg4anpKQ0I0QUtMeVItYkswRklRam9lamxXczjSAYQBQVVfeXFMUElSTGV1clFKQ2tKME9OdUxzc2V0M0hqclhNbS15WmJHTUZvY202MnJHMTRNX09GQ0Q1WDZCaGt4ZnN6TmkyaktOaEdDRS1wdEtpVTF0REYtQ21xeGkzb0w1OXo2c1BJaDVWOUFuZ19OTW5nTkowanMzUkh1SEVQTUt0aF85?oc=5",
    "date": "2026-10-22T07:00:00.000Z",
    "category": "人手不足"
+  },
+  {
+   "title": "ベトナム人海外派遣労働者、2027年からコードで一元管理へ［法律］",
+   "source": "VIETJOベトナムニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Pc2tGQlVhcy1qeGZPSXZHbUtkV3YzNTBXX0tuRmdzTDNQZV9zM2hTQ09XbEFnT0p4MmtyYS1yUGI3Z0FyTVhiTWJWQmkwTlVmMlB6LUtyYi1SYkMtYXhJ?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "category": "トラブル"
   },
   {
    "title": "【公募】足寄町立特別養護老人ホーム特定技能外国人受入支援業務に係る公募型プロポーザルの実施について（10.22更新）",
@@ -974,6 +981,13 @@
    "category": "技能実習・育成就労"
   },
   {
+   "title": "外国人採用のパイオニアG.A.グループは、『自動車部品で特定技能外国人が解禁！採用から即戦力化・不法就労防止までを徹底解説』セミナーのアーカイブ配信の実施を決定。",
+   "source": "福島民報デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LcllpamMyd1FHSlU5YnN5VHlpUjhqTGpkOWp0MUIydWU0NGs0Zi1qR2hKcEl0SHVJRU9JOWY3bklOMm5obDhnbXdJWS1ycFlUaGtHZ0MxeWNPLWc1N2doeG9SRnk1Qm8?oc=5",
+   "date": "2026-10-20T07:00:00.000Z",
+   "category": "特定技能"
+  },
+  {
    "title": "特定技能の外国人、「給食」受け入れを別分野で再開へ 政府が運用案 [外国人政策 高市早苗総理 自民党]",
    "source": "朝日新聞",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VWNJeS1OVkNGTmJDTHNrdWFpNWxoOUw5REJtUlpVR1h2Y3NtRkRpRTRmVm4tbnNlQUFlYndqdzBWbWVZdWZRX2YwVlRMY2Q5VGk4WjlBaHFtNG9kWkJvQUZPbmZSZk0?oc=5",
@@ -986,13 +1000,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObWR0REVaMUozcTUyOUR2VUVHX0F0N0ZFNjFkMUt4TXBaSG82bWlBQUlLVHRtU3FzWDVyV3ZWYzBYRlNjREwtUEc1UWJ5dmNvT01SVENacmRtOFFZb3lYcFdFT29NY200UGFzdk9sR2lkTmJVVXM0c09JR2ktSks0LWlNaVJrYVE?oc=5",
    "date": "2026-10-19T07:00:00.000Z",
    "category": "人手不足"
-  },
-  {
-   "title": "外国人は借りた部屋に「完璧」を求めない、築古や残置物も気にしない、害虫も自分で駆除…。外国人入居の意外なメリット",
-   "source": "健美家",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FaEhVSWtWcDhPT3cybDh5SzhNRzVCc2d1cGlZczRzWXRWRHh4X3FRVUNkUmx0WkNpR0hFclBRWnpDY3ZfVGYtUnBkYTdxQWN4NnpweXF2eTA5V3hTRVE?oc=5",
-   "date": "2026-10-19T07:00:00.000Z",
-   "category": "トラブル"
   },
   {
    "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
@@ -1123,7 +1130,7 @@
   {
    "title": "外国人留学生向け日本語講座 １１、１２月、就職活動支援",
    "source": "山陽新聞",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQa21fcWZqQ2o1d2JXZVRQX2RKclZ4WlRuM0VUREp4X2wzY2lwYWFpd2JYeURNRW1UMGp6c3EydG0waVl1NWtjYXA1OXFpQzNMNFpHa1BvSm1QRWYxbWdpVmY4MjZXbnBw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52ZElrUUZaMDd2SEZ0QlkwbWVyOFNydXVBdDdzTHNRcGNxZXJpaXdpdTZZX2NZNDRXS3RXUVJCZWpHc243ZUpQN0VRZHMwM2NudEE?oc=5",
    "date": "2026-10-15T07:00:00.000Z",
    "category": "技人国・留学生就職"
   },
@@ -1254,13 +1261,6 @@
    "category": "賃金・待遇"
   },
   {
-   "title": "米、外国人技術者の永住権手続き凍結 マイクロソフトなど対象（ロイター）",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJX1Fmam44TF9VaHVDaEJZMjFpVmxpVTVxM1RWTEFBMm5TV3RRa2ExTTBZMlF3dWNhZzlWa05DZWdxNlJ5OF9MQkk4dGZlV3NRbWc1RVBudGZsLV96Q1Y1UmRUNS1zaTdTNGZqQUdpMDNYU1NQaGJSNDNuZVlMbEk?oc=5",
-   "date": "2026-10-09T07:00:00.000Z",
-   "category": "賃金・待遇"
-  },
-  {
    "title": "介護人材等に係る補助金について",
    "source": "埼玉県",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNUF4MGdhVzFtMWE2VWQtaGJtT3NCaUVkM25YMTBfSk5SamwtUXRCSmluNEpOUjJ6c3IxZnFoZGo1OEFSOVNVbHZmZzRvX29NM2k2eU9lS1gzQ2QwTlY3Y05ZNEtFU202TW5jOUJxem1YQQ?oc=5",
@@ -1292,6 +1292,13 @@
    "title": "留学生就労に手数料１１００万円 「労働者保護」へ負担増―トランプ米政権：時事ドットコム",
    "source": "時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kU1AwemNYRHo2cDV4MmRHM3RCY0JKcU9KTDd4WTZoYzBJY2Y4b3BCanM5ekF3VFE0N3dPdHo5b1k2TG52V0M5cHQzYkNmUDRkcFBIQ3V0VW5IcFdIRWhyQ2Q0VQ?oc=5",
+   "date": "2026-10-09T07:00:00.000Z",
+   "category": "技人国・留学生就職"
+  },
+  {
+   "title": "留学生も続々と日本でも母国でも就職を実現！HALでの学びとは",
+   "source": "NewsTV",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBuc2ZJc0JQazI4ZFR3SWdpaVFWdnk2NEtuRFRNWXVGNllScnNSeXhRZFVKV0lLRXM2OXp4MnFRb2xWT29M?oc=5",
    "date": "2026-10-09T07:00:00.000Z",
    "category": "技人国・留学生就職"
   },
@@ -1464,11 +1471,11 @@
    "category": "技人国・留学生就職"
   },
   {
-   "title": "外国人労働者の日本語義務化が人材と施設不足で遅延懸念",
-   "source": "Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVFMdlowQ01vU2lYaC1LS1c1TWhLVnVTcE1kY0I4SmJUUnNfZWdrckhWaTlIQldMVVJacV9ZdkZLaUY5YUhNbkNldFdCdW1kbHd5SFIzNTRDQlQ5X09WQmR0b0lhQ0xDOWhDY2owUjBLcGVXMTdZX2pDdkJzZXVNU0RRWDc0azV20gGcAUFVX3lxTE82T1RuSmQ5THFlSTV6eXdIOUlLSlBvRHE0OHB4NWdtQV9iUG1YcGNGVmg4c1lRVEM2eGVxdXRLZ29QcWZwZXdTR3YxcW1idnVIamh0RzVDaHJVSG9WN3VUaEwxVHo1N18wMmpyRnVRMkdocTFaSWh2SHF5d2ZmUmRaSW90bVZ1cnRFQnlyRmZoX3c4R1dsTW5xTWdxaA?oc=5",
+   "title": "特定技能、外食業以外もリミット迫る 約60％の介護と航空は令和9年末に受け入れ停止か",
+   "source": "産経ニュース",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51UUFncTd3dUhPRkExR1VUbXVveFZfQVNnXzBGa2t0ZW5FRHo4Ul9IcXRhek5HSVROejMzU0U2YVNLU0tPdVRQbjhiUF8xNENQVVhPaTZXMWhWbktjX090Vjk4TGI0Z0FFS2ZqNERmMV9UWVZfelE?oc=5",
    "date": "2026-10-06T07:00:00.000Z",
-   "category": "人手不足"
+   "category": "特定技能"
   },
   {
    "title": "警備業への外国人材受入れが検討されています",
@@ -1657,7 +1664,7 @@
    "source": "東京商工リサーチ",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zZnh5WWdzU3lZSHZUem13b1djeU9oUmpPQWNJVjA1RXprNjBvQVFxSWlsSEowX1BEVW1WakNTWl9BQy1CVFZmX0hxWDBrQ0VoNTJpWXdrVTBnbmhzODBVcXQwVkV5dw?oc=5",
    "date": "2026-10-01T07:00:00.000Z",
-   "category": "トラブル"
+   "category": "技能実習・育成就労"
   },
   {
    "title": "外国人材「育成就労制度」まで半年 日本語教育担い手確保課題",
@@ -1672,13 +1679,6 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nWHpydDdpWVk1QkxuY0VOdG9IMlZWOEowbDB2MndVR09YOGFubnFOTTd4UEVOWXJscE9JWFpSRTlFWV9MazhlbHQwY3h3ajl6T0Q3U2JmeGNVRmhNRmZfZG5VNmo5aWg5U0VvT1F6Q0NwQQ?oc=5",
    "date": "2026-10-01T07:00:00.000Z",
    "category": "特定技能"
-  },
-  {
-   "title": "【留学生のみなさんへ】日本で就職したいあなたへ！就職活動ロードマップ案内（無料・2ステップ）",
-   "source": "東海大学",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43cWsyZUgwbjFlc1RDZVBDWHpIV3hJQ3NVVXFmR1dWSHRFN0p2N200Und5Tll3dENrUzd4Tnl2XzZ1ZTdCZlVrT0dzVG9scjh0MkFKUnFTeTg5Z2M?oc=5",
-   "date": "2026-10-01T07:00:00.000Z",
-   "category": "技人国・留学生就職"
   },
   {
    "title": "人手不足対策",
@@ -1800,6 +1800,13 @@
    "category": "法改正・制度"
   },
   {
+   "title": "参加無料 観光業界への就職を目指す外国人留学生等向け職場見学会＆交流会（第2回）の参加者を募集",
+   "source": "My TOKYO - 東京都公式ポータルサイト",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpcFVnR3hUSEZBSmQwVDZHWDBRdDRVTXktNDcySEYtVmstQTJ4REZYNlNIcjcxVjByWGk4c2lNOHdpeUQwR01PTFp1bWN0UzY4ekNOTk52MWIxWVVGU1I2OU9FdGo3T2Nx?oc=5",
+   "date": "2026-09-25T07:00:00.000Z",
+   "category": "技人国・留学生就職"
+  },
+  {
    "title": "外国人労働者のサポートは支援かビジネスか…競争激化する中、理想と現実のはざまで自問自答",
    "source": "東京新聞",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBheG1mX2FjZmNuTDEtQlhBYVNTSTZPeUhON0kxN0Z1VElzYUFvWHBoZkNZSVlIQU5nTVhvMjFHZThfOWxla01iSXVSMFNWR0tnUjln?oc=5",
@@ -1833,13 +1840,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44OGJNLTZ0TU5ISWZaOTczRXFKU1pqZEhLaVlUU2FmT1RtZXlZa281enJZTk9YX2NYbEtUNy00bmhvNjYzV0p5UzFoYV81V2hUOFZpTEdzdTVQZW8?oc=5",
    "date": "2026-09-17T07:00:00.000Z",
    "category": "賃金・待遇"
-  },
-  {
-   "title": "広島で教育機関向け外国人留学生就職支援セミナーが開催(日本) | ビジネス短信",
-   "source": "ジェトロ（日本貿易振興機構）",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jTG9VdS1iZzM3NVJtYkh2OFF0NlRndVpHZElyZ2xqVkNxOURrS3p2Qko5QThyR2J4X0djbGZoOVBJMmdDTk5SVk45eHhTVldBMnBzcXkyNy1oTUxnODIwaWtMaXJZNVdBM1pXSTd3?oc=5",
-   "date": "2026-09-16T07:00:00.000Z",
-   "category": "技人国・留学生就職"
   },
   {
    "title": "【11/11,20, 1/26】Practical Seminar for International Students(2026Fall)／就活実践講座(2026年秋)",
@@ -1903,13 +1903,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HX1FVQVpQTjdRTDhYQlkxb3Y0VlRfLXJxU3dyVVpJWTlYVGtmaW0wSk10Y2lNTG9aUTMzakQxbVJqU1RqT3N2SFRJLUJ5Qm5rcWFLQ1VZWVVTTW1ocWtEczVDRDdIdw?oc=5",
    "date": "2026-09-09T07:00:00.000Z",
    "category": "労働者数・統計"
-  },
-  {
-   "title": "外国人新資格「育成就労」に航空分野を追加 受け入れ上限は変わらず―政府",
-   "source": "時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Eb0dZdWdONmpUX2x6RF8tSG51V1F4VmFVamhhZUJSWXVILWF2aVZjWUhYSU9VSWlzazczU0ZjRlVqUUx4andKWktQTGNTR2hBXzI4MTd6UklucE5QZzctOUFEQQ?oc=5",
-   "date": "2026-09-09T07:00:00.000Z",
-   "category": "法改正・制度"
   },
   {
    "title": "厚労省、外国人労働者約204万人 前年比約12％増、賃金も6.4％上昇",
@@ -2113,6 +2106,13 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVX2JvUk56QUwyWXhva3dqZ1JjVUNqSDZKcUVqSG5SZnNZWWJDU1VtT25JaFA1aUY3TzgzUm9FOHhIR2dVX29Zd1pCZzVDdWRjRE1n?oc=5",
    "date": "2026-08-05T07:00:00.000Z",
    "category": "労働者数・統計"
+  },
+  {
+   "title": "多文化共生のまち福島推進指針",
+   "source": "福島市",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15WkhYMlFSMFV5YjdnTXQ4cktqZkJFNTFnNzd4bmM0LTFRU1ZXaDJLSWY0UTZFeDNRZ3Z2dFh1c1MxU01nUFE3dWlIaHpYN2hWakFqQVZsR1pFcTB1QVB5WG1NT3JIdzRra0dJRmVMbi1TSFVU?oc=5",
+   "date": "2026-08-04T07:00:00.000Z",
+   "category": "法改正・制度"
   }
  ]
 }
